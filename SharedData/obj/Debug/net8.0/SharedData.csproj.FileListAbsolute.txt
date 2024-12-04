@@ -1,0 +1,11 @@
+C:\Users\msi\Desktop\Server\SharedData\bin\Debug\net8.0\SharedData.deps.json
+C:\Users\msi\Desktop\Server\SharedData\bin\Debug\net8.0\SharedData.dll
+C:\Users\msi\Desktop\Server\SharedData\bin\Debug\net8.0\SharedData.pdb
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\SharedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\SharedData.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\SharedData.AssemblyInfo.cs
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\SharedData.dll
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\refint\SharedData.dll
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\SharedData.pdb
+C:\Users\msi\Desktop\Server\SharedData\obj\Debug\net8.0\ref\SharedData.dll

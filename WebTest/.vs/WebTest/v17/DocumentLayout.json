@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Desktop\\vr\\WebTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767AF72C-BF6B-8F81-04D1-3C54BC2768B1}|Assembly-CSharp.csproj|c:\\users\\msi\\desktop\\vr\\webtest\\assets\\webmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767AF72C-BF6B-8F81-04D1-3C54BC2768B1}|Assembly-CSharp.csproj|solutionrelative:assets\\webmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebManager.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\vr\\WebTest\\Assets\\WebManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WebManager.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\vr\\WebTest\\Assets\\WebManager.cs",
+              "RelativeToolTip": "Assets\\WebManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:49:08.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
